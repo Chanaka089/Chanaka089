@@ -34,14 +34,14 @@
 
 <table align="center">
 <tr>
-<td align="center" width="33%"><b>Shopify Theme Development</b><br/><sub>Pixel-perfect, fast, conversion-focused themes built with Liquid, JS & modern tooling</sub></td>
-<td align="center" width="33%"><b>Custom Shopify Apps</b><br/><sub>Custom functionality & third-party integrations tailored to business needs</sub></td>
-<td align="center" width="33%"><b>Shopify Plus & Migrations</b><br/><sub>Enterprise-grade solutions & seamless platform migrations with zero data loss</sub></td>
+<td align="center" width="33%"><b>Shopify Theme Development</b><br/>Pixel-perfect, fast, conversion-focused themes built with Liquid, JS & modern tooling</td>
+<td align="center" width="33%"><b>Custom Shopify Apps</b><br/>Custom functionality & third-party integrations tailored to business needs</td>
+<td align="center" width="33%"><b>Shopify Plus & Migrations</b><br/>Enterprise-grade solutions & seamless platform migrations with zero data loss</td>
 </tr>
 <tr>
-<td align="center" width="33%"><b>Headless Commerce</b><br/><sub>Storefronts powered by the Shopify Storefront API & modern frameworks</sub></td>
-<td align="center" width="33%"><b>CRO & Performance</b><br/><sub>A/B testing, heat-mapping & Core Web Vitals optimization</sub></td>
-<td align="center" width="33%"><b>E-Commerce SEO</b><br/><sub>Search-optimized stores that drive organic growth</sub></td>
+<td align="center" width="33%"><b>Headless Commerce</b><br/>Storefronts powered by the Shopify Storefront API & modern frameworks</td>
+<td align="center" width="33%"><b>CRO & Performance</b><br/>A/B testing, heat-mapping & Core Web Vitals optimization</td>
+<td align="center" width="33%"><b>E-Commerce SEO</b><br/>Search-optimized stores that drive organic growth</td>
 </tr>
 </table>
 
@@ -116,7 +116,7 @@
 
 ### 🏆 Impact & Featured Work
 
-> 100+ projects delivered · 50+ Shopify stores built · Trusted by 50+ global clients · 98% client satisfaction
+<p align="center"><b>100+ projects delivered · 50+ Shopify stores built · Trusted by 50+ global clients · 98% client satisfaction</b></p>
 
 - **TasteBuds Gifts (AU)** — Shopify redesign for premium chocolate bouquets & gift hampers — **+42% conversion, +65% revenue**
 - **Hampers Galore (AU)** — Shopify Plus build for a top-ranking gift hamper brand — **+45% conversion, +72% revenue**
