@@ -1,4 +1,4 @@
-<h1 align="center"> Chanaka Lahiru Sampath</h1>
+<h1 align="center"; color: #fff;> Chanaka Lahiru Sampath</h1>
 <h3 align="center">Senior Shopify Developer | Shopify Apps & Theme Development | 7+ Years in E-Commerce</h3>
 
 <p align="center">
